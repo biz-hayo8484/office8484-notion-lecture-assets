@@ -1,63 +1,63 @@
-Chapter 01	01	Notionでできること	できること	thumb_chapter01_01_notionでできること.png
-Chapter 01	02	Notionの基本構造	基本構造	thumb_chapter01_02_notionの基本構造.png
-Chapter 01	03	他ツールとの違い	ツール比較	thumb_chapter01_03_他ツールとの違い.png
-Chapter 01	04	レクチャーの学び方	学び方	thumb_chapter01_04_レクチャーの学び方.png
-Chapter 02	01	ページの作り方	ページ作成	thumb_chapter02_01_ページの作り方.png
-Chapter 02	02	ブロックの基本	ブロック	thumb_chapter02_02_ブロックの基本.png
-Chapter 02	03	よく使うブロック	基本ブロック	thumb_chapter02_03_よく使うブロック.png
-Chapter 02	04	情報整理の型	情報整理	thumb_chapter02_04_情報整理の型.png
-Chapter 03	01	データベースとは	データベース	thumb_chapter03_01_データベースとは.png
-Chapter 03	02	プロパティの基本	プロパティ	thumb_chapter03_02_プロパティの基本.png
-Chapter 03	03	ビューの基本	ビュー	thumb_chapter03_03_ビューの基本.png
-Chapter 03	04	ソート・グループ	並び替え	thumb_chapter03_04_ソート_グループ.png
-Chapter 03	05	DBを作る前の設計	DB設計前	thumb_chapter03_05_dbを作る前の設計.png
-Chapter 04	01	フィルター	フィルター	thumb_chapter04_01_フィルター.png
-Chapter 04	02	リンクドビュー	リンクドビュー	thumb_chapter04_02_リンクドビュー.png
-Chapter 04	03	テンプレート	テンプレート	thumb_chapter04_03_テンプレート.png
-Chapter 04	04	リレーション	リレーション	thumb_chapter04_04_リレーション.png
-Chapter 04	05	4機能の組み合わせ	4機能活用	thumb_chapter04_05_4機能の組み合わせ.png
-Chapter 05	01	DB設計の基本	DB設計	thumb_chapter05_01_db設計の基本.png
-Chapter 05	02	ロールアップ	ロールアップ	thumb_chapter05_02_ロールアップ.png
-Chapter 05	03	レイアウト設計	レイアウト	thumb_chapter05_03_レイアウト設計.png
-Chapter 05	04	マスターDBの考え方	マスターDB	thumb_chapter05_04_マスターdbの考え方.png
-Chapter 05	05	設計ミスの直し方	設計改善	thumb_chapter05_05_設計ミスの直し方.png
-Chapter 06	01	共有の基本	共有	thumb_chapter06_01_共有の基本.png
-Chapter 06	02	権限の考え方	権限	thumb_chapter06_02_権限の考え方.png
-Chapter 06	03	コメントとメンション	コメント	thumb_chapter06_03_コメントとメンション.png
-Chapter 06	04	通知と更新確認	通知	thumb_chapter06_04_通知と更新確認.png
-Chapter 06	05	チーム運用ルール	運用ルール	thumb_chapter06_05_チーム運用ルール.png
-Chapter 07	01	Notion AIの全体像	Notion AI	thumb_chapter07_01_notion_aiの全体像.png
-Chapter 07	02	Notion Agentの基本	Agent基本	thumb_chapter07_02_notion_agentの基本.png
-Chapter 07	03	Notion AgentのInstructionsとSkills	Skills	thumb_chapter07_03_notion_agentのinstructionsとskills.png
-Chapter 07	04	Custom Agentsの考え方	Custom Agent	thumb_chapter07_04_custom_agentsの考え方.png
-Chapter 07	05	Custom Agentを作る	Agent作成	thumb_chapter07_05_custom_agentを作る.png
-Chapter 07	06	AI Autofill	AI Autofill	thumb_chapter07_06_ai_autofill.png
-Chapter 07	07	AI Meeting Notes	Meeting Notes	thumb_chapter07_07_ai_meeting_notes.png
-Chapter 07	08	Enterprise Search / AI検索	AI検索	thumb_chapter07_08_enterprise_search_ai検索.png
-Chapter 07	09	Notion AIの安全な使い方	AI安全管理	thumb_chapter07_09_notion_aiの安全な使い方.png
-Chapter 07	10	Notion AI実務パターン集	AI実務活用	thumb_chapter07_10_notion_ai実務パターン集.png
-Chapter 08	01	数式の基本	数式	thumb_chapter08_01_数式の基本.png
-Chapter 08	02	日付計算	日付計算	thumb_chapter08_02_日付計算.png
-Chapter 08	03	ステータス判定	条件判定	thumb_chapter08_03_ステータス判定.png
-Chapter 08	04	文字列整形	文字列整形	thumb_chapter08_04_文字列整形.png
-Chapter 08	05	実務数式パターン	実務数式	thumb_chapter08_05_実務数式パターン.png
-Chapter 09	01	オートメーションの全体像	自動化	thumb_chapter09_01_オートメーションの全体像.png
-Chapter 09	02	ボタン	ボタン	thumb_chapter09_02_ボタン.png
-Chapter 09	03	フォーム	フォーム	thumb_chapter09_03_フォーム.png
-Chapter 09	04	DBオートメーション	DB自動化	thumb_chapter09_04_dbオートメーション.png
-Chapter 09	05	自動化設計の注意点	自動化設計	thumb_chapter09_05_自動化設計の注意点.png
-Chapter 10	01	外部連携の全体像	外部連携	thumb_chapter10_01_外部連携の全体像.png
-Chapter 10	02	Slack連携	Slack連携	thumb_chapter10_02_slack連携.png
-Chapter 10	03	Google連携	Google連携	thumb_chapter10_03_google連携.png
-Chapter 10	04	同期DB	同期DB	thumb_chapter10_04_同期db.png
-Chapter 10	05	API/Webhookの考え方	API連携	thumb_chapter10_05_api_webhookの考え方.png
-Chapter 11	01	管理者設定の全体像	管理者設定	thumb_chapter11_01_管理者設定の全体像.png
-Chapter 11	02	メンバーとゲスト	メンバー管理	thumb_chapter11_02_メンバーとゲスト.png
-Chapter 11	03	チームスペース設計	チームスペース	thumb_chapter11_03_チームスペース設計.png
-Chapter 11	04	セキュリティ設定	セキュリティ	thumb_chapter11_04_セキュリティ設定.png
-Chapter 11	05	ガバナンス運用	ガバナンス	thumb_chapter11_05_ガバナンス運用.png
-Chapter 12	01	タスク管理構築	タスク管理	thumb_chapter12_01_タスク管理構築.png
-Chapter 12	02	SNS投稿管理	SNS管理	thumb_chapter12_02_sns投稿管理.png
-Chapter 12	03	顧客・案件管理	案件管理	thumb_chapter12_03_顧客_案件管理.png
-Chapter 12	04	店舗・チームポータル	チームポータル	thumb_chapter12_04_店舗_チームポータル.png
-Chapter 12	05	レクチャー受講後の改善	改善設計	thumb_chapter12_05_レクチャー受講後の改善.png
+Chapter 01	01	Notionでできること	できること	thumb_chapter01_01.png
+Chapter 01	02	Notionの基本構造	基本構造	thumb_chapter01_02.png
+Chapter 01	03	他ツールとの違い	ツール比較	thumb_chapter01_03.png
+Chapter 01	04	レクチャーの学び方	学び方	thumb_chapter01_04.png
+Chapter 02	01	ページの作り方	ページ作成	thumb_chapter02_01.png
+Chapter 02	02	ブロックの基本	ブロック	thumb_chapter02_02.png
+Chapter 02	03	よく使うブロック	基本ブロック	thumb_chapter02_03.png
+Chapter 02	04	情報整理の型	情報整理	thumb_chapter02_04.png
+Chapter 03	01	データベースとは	データベース	thumb_chapter03_01.png
+Chapter 03	02	プロパティの基本	プロパティ	thumb_chapter03_02.png
+Chapter 03	03	ビューの基本	ビュー	thumb_chapter03_03.png
+Chapter 03	04	ソート・グループ	並び替え	thumb_chapter03_04.png
+Chapter 03	05	DBを作る前の設計	DB設計前	thumb_chapter03_05.png
+Chapter 04	01	フィルター	フィルター	thumb_chapter04_01.png
+Chapter 04	02	リンクドビュー	リンクドビュー	thumb_chapter04_02.png
+Chapter 04	03	テンプレート	テンプレート	thumb_chapter04_03.png
+Chapter 04	04	リレーション	リレーション	thumb_chapter04_04.png
+Chapter 04	05	4機能の組み合わせ	4機能活用	thumb_chapter04_05.png
+Chapter 05	01	DB設計の基本	DB設計	thumb_chapter05_01.png
+Chapter 05	02	ロールアップ	ロールアップ	thumb_chapter05_02.png
+Chapter 05	03	レイアウト設計	レイアウト	thumb_chapter05_03.png
+Chapter 05	04	マスターDBの考え方	マスターDB	thumb_chapter05_04.png
+Chapter 05	05	設計ミスの直し方	設計改善	thumb_chapter05_05.png
+Chapter 06	01	共有の基本	共有	thumb_chapter06_01.png
+Chapter 06	02	権限の考え方	権限	thumb_chapter06_02.png
+Chapter 06	03	コメントとメンション	コメント	thumb_chapter06_03.png
+Chapter 06	04	通知と更新確認	通知	thumb_chapter06_04.png
+Chapter 06	05	チーム運用ルール	運用ルール	thumb_chapter06_05.png
+Chapter 07	01	Notion AIの全体像	Notion AI	thumb_chapter07_01.png
+Chapter 07	02	Notion Agentの基本	Agent基本	thumb_chapter07_02.png
+Chapter 07	03	Notion AgentのInstructionsとSkills	Skills	thumb_chapter07_03.png
+Chapter 07	04	Custom Agentsの考え方	Custom Agent	thumb_chapter07_04.png
+Chapter 07	05	Custom Agentを作る	Agent作成	thumb_chapter07_05.png
+Chapter 07	06	AI Autofill	AI Autofill	thumb_chapter07_06.png
+Chapter 07	07	AI Meeting Notes	Meeting Notes	thumb_chapter07_07.png
+Chapter 07	08	Enterprise Search / AI検索	AI検索	thumb_chapter07_08.png
+Chapter 07	09	Notion AIの安全な使い方	AI安全管理	thumb_chapter07_09.png
+Chapter 07	10	Notion AI実務パターン集	AI実務活用	thumb_chapter07_10.png
+Chapter 08	01	数式の基本	数式	thumb_chapter08_01.png
+Chapter 08	02	日付計算	日付計算	thumb_chapter08_02.png
+Chapter 08	03	ステータス判定	条件判定	thumb_chapter08_03.png
+Chapter 08	04	文字列整形	文字列整形	thumb_chapter08_04.png
+Chapter 08	05	実務数式パターン	実務数式	thumb_chapter08_05.png
+Chapter 09	01	オートメーションの全体像	自動化	thumb_chapter09_01.png
+Chapter 09	02	ボタン	ボタン	thumb_chapter09_02.png
+Chapter 09	03	フォーム	フォーム	thumb_chapter09_03.png
+Chapter 09	04	DBオートメーション	DB自動化	thumb_chapter09_04.png
+Chapter 09	05	自動化設計の注意点	自動化設計	thumb_chapter09_05.png
+Chapter 10	01	外部連携の全体像	外部連携	thumb_chapter10_01.png
+Chapter 10	02	Slack連携	Slack連携	thumb_chapter10_02.png
+Chapter 10	03	Google連携	Google連携	thumb_chapter10_03.png
+Chapter 10	04	同期DB	同期DB	thumb_chapter10_04.png
+Chapter 10	05	API/Webhookの考え方	API連携	thumb_chapter10_05.png
+Chapter 11	01	管理者設定の全体像	管理者設定	thumb_chapter11_01.png
+Chapter 11	02	メンバーとゲスト	メンバー管理	thumb_chapter11_02.png
+Chapter 11	03	チームスペース設計	チームスペース	thumb_chapter11_03.png
+Chapter 11	04	セキュリティ設定	セキュリティ	thumb_chapter11_04.png
+Chapter 11	05	ガバナンス運用	ガバナンス	thumb_chapter11_05.png
+Chapter 12	01	タスク管理構築	タスク管理	thumb_chapter12_01.png
+Chapter 12	02	SNS投稿管理	SNS管理	thumb_chapter12_02.png
+Chapter 12	03	顧客・案件管理	案件管理	thumb_chapter12_03.png
+Chapter 12	04	店舗・チームポータル	チームポータル	thumb_chapter12_04.png
+Chapter 12	05	レクチャー受講後の改善	改善設計	thumb_chapter12_05.png
